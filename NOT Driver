@@ -1,0 +1,26 @@
+public class Chapter_7_Project_3b
+{
+    // instance variables - replace the example below with your own
+    private int x;
+
+    public Chapter_7_Project_3b()
+    {
+        // initialise instance variables
+        x = 0;
+    }
+    
+    
+    public int parsing(String monthTemp)
+    {
+        int monthNumber;
+        monthNumber = Integer.parseInt(monthTemp);
+        return monthNumber;
+    }
+    
+    public boolean parsing(String monthTemp, int )
+    {
+        
+        monthNumber = Integer.parseInt(monthTemp);
+        return monthNumber;
+    }
+}
